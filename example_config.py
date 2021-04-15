@@ -1,2 +1,2 @@
-BOT_TOKEN = "Bot token here"
-ADMINS = ["Admin", "IDs", "here"]
+BOT_TOKEN = "1785360964:AAFAPJL3k6Wyz4HUVwwRiZSFYFEsF34kIas"
+ADMINS = ["Admin", "IDs", "940086446"]
